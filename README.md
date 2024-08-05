@@ -3,16 +3,16 @@
 
 ### Contact and networks
 <p>
-  <a href="mailto:victorcostadev@gmail.com" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/gmail.svg" width="30px" alt="Mail"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/victorcosta12/" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/victorcosta12/" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://t.me/victorcosta12" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
+  <a href="mailto:victorcostadev@gmail.com" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/gmail.svg" width="30px" alt="Mail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/victorcosta12/" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/victorcosta12/" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://t.me/victorcosta12" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
 </p>
 
 ### Things to know about me!
 
 - 🔭 I’m currently working w/ React, React Native, Redux and GraphQL
-- 🌱 I’m currently learning about Flutter, Dart and Javascript.  
+- 🌱 I’m currently learning about NestJS, Typescript and Docker.  
 
 
 ## Some knowledge in technologies
