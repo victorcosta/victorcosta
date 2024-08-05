@@ -3,10 +3,10 @@
 
 ### Contact and networks
 <p>
-  <a href="mailto:victorcostadev@gmail.com" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/gmail.svg" width="30px" alt="Mail"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/victorcosta12/" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/victorcosta12/" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://t.me/victorcosta12" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
+  <a href="mailto:victorcostadev@gmail.com" target="_blank"><img src="https://github.com/user-attachments/assets/409fdbab-580f-4e06-adf8-8e5ce82673e2" width="30px" alt="Mail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/victorcosta12/" target="_blank"><img src="https://github.com/user-attachments/assets/9ba2db05-82b5-47d9-a2bc-f72976330bd6" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/victorcosta12/" target="_blank"><img src="https://github.com/user-attachments/assets/44d20e10-14df-44cc-b01d-961967933ea6" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://t.me/victorcosta12" target="_blank"><img src="https://github.com/user-attachments/assets/4462b2b0-81c6-4de3-8eeb-f25e02c58a67" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
 </p>
 
 ### Things to know about me!
@@ -18,8 +18,6 @@
 ## Some knowledge in technologies
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="react" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="react" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="react" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="react" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" /> 
 
 [![Github Status](https://github-readme-stats.vercel.app/api?username=victorcosta&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/cogumm/victorcosta)
-
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=victorcosta.victorcosta" alt="visitors"></p>
