@@ -20,4 +20,13 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="react" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="react" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="spring" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="spring" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="spring" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="spring" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="spring" width="25" height="25" /> 
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=victorcosta&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/victorcosta)
+
+<a href="https://github.com/victorcosta">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=victorcosta&theme=react&show_icons=true" style"max-width: 100%;" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcosta&theme=react&layout=compact" style"max-width: 100%;" />
+  <img height="300em" src="https://metrics.lecoq.io/victorcosta" alt="Github Metrics" style"max-width: 100%;>
+</a>
+
+<br/>
+                                                                                       
+[![trophy](https://github-profile-trophy.vercel.app/?username=victorcosta&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)         
