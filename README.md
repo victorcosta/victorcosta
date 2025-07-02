@@ -24,9 +24,6 @@
 <a href="https://github.com/victorcosta">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=victorcosta&theme=react&show_icons=true" style"max-width: 100%;" />
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcosta&theme=react&layout=compact" style"max-width: 100%;" />
-  <img height="300em" src="https://metrics.lecoq.io/victorcosta" alt="Github Metrics" style"max-width: 100%;>
 </a>
 
 <br/>
-                                                                                       
-[![trophy](https://github-profile-trophy.vercel.app/?username=victorcosta&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)         
